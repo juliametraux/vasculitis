@@ -1,0 +1,65 @@
+html,body {
+  background-color: #F8F8FF;
+  font: normal 25px/1.3 serif;
+}
+
+h1 {
+  color: #191970;
+  text-align: center;
+}
+
+h2 {
+  color: #191970;
+}
+
+#byline{
+  text-align: center;
+  font-style: italic;
+}
+
+.letter{
+  color: black;
+}
+
+.letter::first-letter {
+  font-size: 150%;
+}
+
+
+img {
+  margin-left: 0;
+  padding-left: 0;
+  margin-right: auto;
+  width: 100%;
+}
+
+figure {
+  border-top: none;
+  padding-top: 0;
+}
+
+figcaption {
+  padding: 0.5em;
+  text-align: center;
+  font-style: italic;
+}
+
+#credit{
+  font-style: italic;
+}
+
+#covid{
+  font-style: italic;
+}
+
+#articles{
+  padding-left: 30px;
+  padding-right: 30px;
+  border-style: dashed
+}
+
+/*Learned how to make this type of border here https://www.w3schools.com/css/tryit.asp?filename=trycss_border-style */
+
+#ending{
+  margin-left: 20px;
+}
