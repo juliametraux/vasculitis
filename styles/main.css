@@ -44,6 +44,10 @@ figcaption {
   font-style: italic;
 }
 
+#gif{
+  width: 50%;
+}
+
 #credit{
   font-style: italic;
 }
