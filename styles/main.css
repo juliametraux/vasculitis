@@ -86,11 +86,13 @@ figcaption {
   font-style: italic;
 }
 
-#articles{
+article{
   padding-left: 30px;
   padding-right: 30px;
   border-style: dashed
 }
+
+
 
 /*Learned how to make this type of border here https://www.w3schools.com/css/tryit.asp?filename=trycss_border-style */
 
