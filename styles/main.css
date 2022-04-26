@@ -1,6 +1,7 @@
 html,body {
   background-color: #F8F8FF;
   font: normal 25px/1.3 serif;
+  scroll-padding-top: 20px;
 }
 
 h1 {
@@ -11,6 +12,10 @@ h1 {
 
 h2 {
   color: #191970;
+}
+
+section{
+  padding-top: 3.5em;
 }
 
 #byline{
@@ -49,7 +54,7 @@ figcaption {
   position: fixed;
   z-index: 1;
   width:  100%;
-  padding:  0;
+  padding: 0;
   background-color:  rgba(250, 250, 250, 1);
 
 }
